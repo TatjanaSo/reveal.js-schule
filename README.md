@@ -4,14 +4,14 @@ Dies ist eine reveal.js Präsentation, die zeigen soll, dass es ein mindestens g
 
 ## Inhalt
 
-- [Codinganzeige]
-- [HTML Grundelemente]
-- [Textgestaltung]
-- [Markdown und HTML]
-- [Tabellen, Diagramme etc.]
-- [Embedded Media]
-- [Speaker Notes]
-- [Auto Sliding]
-- [Fragmente]
-- [Weitere Plugins]
-- [Folienübergänge]
+- Codinganzeige
+- HTML Grundelemente
+- Textgestaltung
+- Markdown und HTML
+- Tabellen, Diagramme etc.
+- Embedded Media
+- Speaker Notes
+- Auto Sliding
+- Fragmente
+- Weitere Plugins
+- Folienübergänge
