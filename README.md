@@ -1,6 +1,6 @@
 # reveal.js -Vorstellung 
 
-Dies ist eine reveal.js Präsentation, die zeigen soll, dass es ein mindestens genauso gutes Medium, wie PowerPoint ist.
+Dies ist eine reveal.js Präsentation, die zeigen soll, dass es ein mindestens genauso ein gutes Medium, wie PowerPoint ist.
 
 ## Inhalt
 
